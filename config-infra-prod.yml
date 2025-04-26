@@ -22,11 +22,11 @@ variables:
   # For pipeline reference
   resource_group: default_resourse_group
   aml_workspace: demo_workspace
-  application_insights: demoworkspace1997734687
-  key_vault: demoworkspace9715646723
+  application_insights: demoworkspace1273965516
+  key_vault: demoworkspace5019179891
   container_registry: a9c528dba4cc4042a824b912e74ef850
-  storage_account: demoworkspace0813584800
-  
+  storage_account: demoworkspace5308531660
+
   # # For terraform reference
   # terraform_version: 0.14.7
   # terraform_workingdir: infrastructure
